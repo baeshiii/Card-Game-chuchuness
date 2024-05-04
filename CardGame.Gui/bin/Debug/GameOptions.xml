@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<GameOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SelectedPlayers>
+    <string>renato</string>
+  </SelectedPlayers>
+  <NumberOfPlayers>2</NumberOfPlayers>
+  <PlayAgainstComputer>true</PlayAgainstComputer>
+  <ComputerSkill>Dumb</ComputerSkill>
+  <PlayerNames>
+    <string>norjan</string>
+    <string>vince</string>
+    <string>nok</string>
+    <string>jang</string>
+    <string>renato</string>
+    <string>sophia</string>
+  </PlayerNames>
+</GameOptions>
